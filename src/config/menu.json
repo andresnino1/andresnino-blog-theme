@@ -9,6 +9,30 @@
       "url": "/about/"
     },
     {
+      "name": "Contact",
+      "url": "/contact/"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "url": "/about/"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact/"
+    }
+  ],
+   "_old_main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about/"
+    },
+    {
       "name": "Series",
       "url": "/series/"
     },
@@ -40,13 +64,12 @@
         }
       ]
     },
-
     {
       "name": "Contact",
       "url": "/contact/"
     }
   ],
-  "footer": [
+   "old_footer": [
     {
       "name": "About",
       "url": "/about/"
@@ -60,4 +83,5 @@
       "url": "/privacy/"
     }
   ]
+  
 }

@@ -1,6 +1,6 @@
 # Bitdoze Astro Blog Theme
 
-A modern, responsive blog theme for Astro with support for tags, categories, and series. This theme is designed to be fast, SEO-friendly, and easy to customize.
+A modern, responsive blog theme for Astro with support for tags, categories, and series. This theme is designed to be fast, SEO-friendly, and easy to customize :)
 
 ## Features
 
